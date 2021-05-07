@@ -246,7 +246,7 @@ footer .contacto  input[type="submit"]:hover{
 @media screen and (max-width:760px){
     header .menu{
         justify-content: center;/*contenido texto centrando uniforme*/
-        background: red;/*color de fondo */
+        background: rgb(241, 236, 236);/*color de fondo */
     }
     header .contenido-header .texto-header{
        font-size:18px; /*tamaño fuente 18px*/
